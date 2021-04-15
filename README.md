@@ -372,6 +372,40 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github:https://github.com/andy-yun/pytorch-0.4-yolov3
 - github:https://github.com/DeNA/PyTorch_YOLOv3
 
+
+
+## YOLOv4
+https://arxiv.org/pdf/2004.10934.pdf
+
+
+
+## YOLOv5
+https://arxiv.org/pdf/2004.10934.pdf
+
+
+
+## 可变形cnn
+Dai_Deformable_Convolutional_Networks_ICCV_2017_paper
+Deformable-ConvNets
+
+## 用迁移学习来做检测
+detr
+End-to-End Object Detection with Transformers
+
+## 可变形迁移学习检测
+DEFORMABLE DETR DEFORMABLE TRANSFORMERS
+
+
+
+附件：
+图像配准资料或源码
+elastix
+ElastixModelZoo
+Automatic Non-rigid Histological Image
+Going Deep in Medical Image Analysis Concepts, Methods, Challenges and Future Directions 
+Region-specific Diffeomorphic Metric Mapping
+AIRLab Autograd Image Registration Laboratory
+
 ## YOLT
 
 **You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery**
